@@ -1,11 +1,4 @@
 ###########
-###Assigment Part 2
-###Time Series
-###Group 7:
-###Ilinca Curcudel (2649029)
-###Heleen Jager (2620997)
-###Jun Li (2644731)
-###Nienke van Twillert (2699189)
 
 #remove working environment
 rm(list=ls())
