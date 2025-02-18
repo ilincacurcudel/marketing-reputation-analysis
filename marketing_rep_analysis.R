@@ -1,4 +1,3 @@
-setwd("/Volumes/Documents /MSC/Marketing Data case/kellogg")
 load("company.rdata")
 load("news.RData")
 
